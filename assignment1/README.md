@@ -16,7 +16,7 @@ python3 nobel2lena.py
 
 The program will output result video `output.mp4` which transform from `asserts/nobel.jpg` to `asserts/lena.jpg`, like:
 
-![nobel2lena_output](asserts/nobel2lena_output.GIF)
+![nobel2lena_output](asserts/nobel2lena.GIF)
 
 refs:
 
