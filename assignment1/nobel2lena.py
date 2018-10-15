@@ -4,7 +4,7 @@ import numpy as np
 from tqdm import tqdm
 
 OUT_CFG = {
-        "filename": "nobel2lena.mp4",
+        "filename": "output/nobel2lena.mp4",
         "fourcc": cv2.VideoWriter_fourcc('m', 'p', '4', 'v'),
         "fps": 60
 }
