@@ -41,8 +41,8 @@ def drawcircle(imagebg, imagefront, R, center=None, preR=None):
 
 
 def main():
-    im_lena = cv2.imread("./asserts/lena.jpg")
-    im_nobel = cv2.imread("./asserts/nobel.jpg")
+    im_lena = cv2.imread("./input/lena.jpg")
+    im_nobel = cv2.imread("./input/nobel.jpg")
     print("lena shape: ", im_lena.shape)
     print("nobel shape: ", im_nobel.shape)
 
