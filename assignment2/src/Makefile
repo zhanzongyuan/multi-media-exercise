@@ -1,6 +1,6 @@
 # OPENCV_LIBS = $(shell pkg-config --libs opencv)
 # OPENCV_HEADERS = $(shell pkg-config --cflags opencv)
-CLANG = clang++
+CLANG = clang++ -std=c++11
 OPENCV_LIBS = `pkg-config --libs opencv`
 OPENCV_HEADERS = `pkg-config --cflags opencv`
 

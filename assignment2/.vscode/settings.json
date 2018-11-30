@@ -19,6 +19,11 @@
         "cstring": "cpp",
         "ctime": "cpp",
         "cwchar": "cpp",
-        "complex": "cpp"
+        "complex": "cpp",
+        "vector": "cpp",
+        "bitset": "cpp",
+        "iostream": "cpp",
+        "iosfwd": "cpp",
+        "istream": "cpp"
     }
 }
